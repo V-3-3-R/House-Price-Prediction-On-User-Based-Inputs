@@ -66,5 +66,5 @@ MIT License—feel free to use/modify. See [LICENSE](LICENSE) for details.
 
 ---
 
-*Built with ❤️ for ML enthusiasts. Questions? Open an issue or tweet @yourhandle.*  
+*Built with ❤️ for ML enthusiasts.*  
 *(Last updated: Nov 2025)*
